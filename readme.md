@@ -84,7 +84,7 @@ End Sub
 ### Authors & Credits
 
 - **Original Author**: The_Prist (Щербаков Дмитрий) - [excel-vba.ru](http://www.excel-vba.ru)
-- **Enhanced by**: Носов Роман (Github: [JustAddAcid](https://github.com/JustAddAcid))
+- **Enhanced by**: Носов Роман (Github: [MyLittleCrab](https://github.com/MyLittleCrab))
 
 ### License
 
@@ -176,7 +176,7 @@ End Sub
 ### Авторы и благодарности
 
 - **Оригинальный автор**: The_Prist (Щербаков Дмитрий) - [excel-vba.ru](http://www.excel-vba.ru)
-- **Доработал**: Носов Роман (Github: [JustAddAcid](https://github.com/JustAddAcid))
+- **Доработал**: Носов Роман (Github: [MyLittleCrab](https://github.com/MyLittleCrab))
 
 ### Лицензия
 
